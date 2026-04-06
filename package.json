@@ -1,0 +1,11 @@
+{
+    "name": "com.lambda-labs.unity-agent-input",
+    "version": "0.1.0",
+    "displayName": "Unity Agent Input",
+    "description": "Keyboard and mouse input simulation for AI agents in Unity Play Mode.",
+    "unity": "2021.3",
+    "author": { "name": "Daniel" },
+    "dependencies": {
+        "com.lambda-labs.unity-repl": "0.1.0"
+    }
+}
