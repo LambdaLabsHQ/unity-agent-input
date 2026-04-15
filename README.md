@@ -37,3 +37,7 @@ Unity's InputSystem processes the hardware event buffer each frame, which overwr
 synthetic state injected mid-frame. `InputAbility` hooks `InputSystem.onAfterUpdate` to
 re-inject held state *after* the buffer is fully processed, so synthetic inputs persist
 correctly across frames.
+
+## License
+
+This package is part of the [Unity REPL](https://github.com/LambdaLabsHQ/unity-repl) project and is licensed under the [GNU Affero General Public License v3.0](LICENSE).
